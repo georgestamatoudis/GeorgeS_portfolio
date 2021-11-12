@@ -18,7 +18,7 @@
 	<section class="s1">
 		<div class="main-container">
 			<div class="greeting-wrapper">
-				<h1>Hi, I'm George Stamatoudis</h1>
+				<h1>Hi, George Stamatoudis</h1>
 			</div>
 
 
@@ -42,13 +42,13 @@
 				</div>
 
 				<div class="left-column">
-					<img id="profile_pic" src="images/Dennis.jpg">
+					<img id="profile_pic" src="images/george_pic.jpg">
 					<h5 style="text-align: center;line-height: 0;">Personalize Theme</h5>
 
 					<div id="theme-options-wrapper">
 						<div data-mode="light" id="light-mode" class="theme-dot"></div>
-						<div data-mode="blue" id="blue-mode" class="theme-dot"></div>
-						<div data-mode="light-red" id="red-mode" class="theme-dot"></div>
+						<div data-mode="gray" id="gray-mode" class="theme-dot"></div>
+						<div data-mode="green" id="green-mode" class="theme-dot"></div>
 						<div data-mode="purple" id="purple-mode" class="theme-dot"></div>
 					</div>
 
@@ -92,11 +92,11 @@
 
 					<div id="skills">
 						<ul>
-							<li>HTML</li>
-							<li>CSS</li>
+							<li>Python</li>
+							<li>Django</li>
 							<li>JavaScript</li>
-							<li>Bootstrap</li>
-							<li>PHP</li>
+							<li>React</li>
+							<li>Postgres</li>
 						</ul>
 
 						<ul>
